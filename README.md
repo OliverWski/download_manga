@@ -15,10 +15,6 @@ Antes de executar o script, é necessário configurar o driver do Chrome e criar
 
 2. Coloque o arquivo do driver na mesma pasta do script.
 
-3. Execute o arquivo `config_driver.py` para configurar o driver do Chrome.
-
-4. Crie uma pasta chamada "capitulos" na mesma pasta do script.
-
 ## Uso
 
 1. Execute o arquivo `main.py`.
@@ -27,7 +23,7 @@ Antes de executar o script, é necessário configurar o driver do Chrome e criar
 
 3. Insira a URL do site que contém o mangá.
 
-4. O script irá baixar os capítulos do mangá e salvá-los na pasta "capitulos".
+4. O script irá baixar os capítulos do mangá e salvá-los na pasta tendo o nome do Manga e todos os seus capitulos em ordem decrescente.
 
 ## Observações
 
@@ -35,7 +31,7 @@ Antes de executar o script, é necessário configurar o driver do Chrome e criar
 
 - Se ocorrerem erros durante o download das páginas do mangá, verifique a conexão com o site ou tente novamente mais tarde.
 
-- O script irá criar um arquivo zip para cada capítulo baixado na pasta "capitulos". O arquivo zip conterá todas as páginas do capítulo.
+- O script irá criar um arquivo zip para cada capítulo baixado na pasta. O arquivo zip conterá todas as páginas do capítulo.
 
 - Os arquivos de imagem das páginas serão excluídos após a criação do arquivo zip para economizar espaço em disco.
 
