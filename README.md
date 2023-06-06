@@ -21,7 +21,7 @@ Antes de executar o script, é necessário configurar o driver do Chrome e criar
 
 2. Insira o nome do mangá que deseja baixar.
 
-3. Insira a URL do site que contém o mangá. (Exemplo: https://yesmangas1.com/manga/jujutsu-kaisen-ym33190)
+3. Insira a URL do site que contém o mangá. 
 
 4. O script irá baixar os capítulos do mangá e salvá-los na pasta tendo o nome do Manga e todos os seus capitulos em ordem decrescente.
 
